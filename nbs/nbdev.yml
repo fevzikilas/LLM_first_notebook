@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "LLM_first_notebook"
+  site-url: "https://fevzikilas.github.io/LLM_first_notebook"
+  description: "first LLM lab"
+  repo-branch: main
+  repo-url: "https://github.com/fevzikilas/LLM_first_notebook"
