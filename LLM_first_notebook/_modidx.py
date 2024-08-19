@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://fevzikilas.github.io',
                 'git_url': 'https://github.com/fevzikilas/LLM_first_notebook',
                 'lib_path': 'LLM_first_notebook'},
-  'syms': {'LLM_first_notebook.core': {'LLM_first_notebook.core.foo': ('core.html#foo', 'LLM_first_notebook/core.py')}}}
+  'syms': {'LLM_first_notebook.core': {'LLM_first_notebook.core.say_hello': ('core.html#say_hello', 'LLM_first_notebook/core.py')}}}
